@@ -1,0 +1,9 @@
+.venv/
+venv/
+Dataparser/__pycache__/*
+old_files/*
+Jupyter_Notebooks/*
+restore_database_from_backup_win11.bat
+Database/config/config.json
+Database/config/database.ini
+Spielwiese/*
