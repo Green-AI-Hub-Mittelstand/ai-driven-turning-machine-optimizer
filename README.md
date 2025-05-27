@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <h1 align="center">Green_AI_Hub_Heismann Project</h1>
+  <h1 align="center">Ai-driven-turning-machine-optimizer</h1>
 
   <p align="center">
     <a href="https://github.com/Green-AI-Hub-Mittelstand/readme_template/issues">Report Bug</a>
