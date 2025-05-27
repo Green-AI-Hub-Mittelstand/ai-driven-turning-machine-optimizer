@@ -105,7 +105,7 @@ To set up your own PostgreSQL instance, install PostgreSQL via [this link](https
 
 ## Usage
 
-⚠️ **Note**: Currently, the scripts are tested only with Python 3.8.
+**Note**: Currently, the scripts are tested only with Python 3.8.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,8 +114,6 @@ To set up your own PostgreSQL instance, install PostgreSQL via [this link](https
 Contributions are what make the open-source community such a great place to learn, inspire, and grow. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion for improvement, please fork the repository and submit a pull request. You can also open an issue with the tag `"enhancement"`.
-
-Don't forget to ⭐ the project. Thank you!
 
 **Steps to contribute:**
 
